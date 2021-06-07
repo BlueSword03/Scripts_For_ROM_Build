@@ -6,4 +6,4 @@ cd ~/ErfanGSIs_MIUI_Only/output
 mkdir out
 zip -r out/GSI.zip ./*
 cd ~/
-./transfer wet ~/ErfanGSIs_MIUI_Only/output/final/GSI.zip
+./transfer wet ~/ErfanGSIs_MIUI_Only/output/GSI.zip
