@@ -1,7 +1,7 @@
 #!/bin/bash
 cd ~/ErfanGSIs_MIUI_Only
 bash setup.sh
-./url2GSI.sh -b https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.4.14/xiaomi.eu_multi_HMNote7_21.4.14_v12-10.zip MIUI
+./url2GSI.sh -b https://bigota.d.miui.com/21.4.16/miui_LAVENDER_21.4.16_c0573679be_10.0.zip MIUI
 cd ~/ErfanGSIs_MIUI_Only/output
 zip -r ~/ErfanGSIs_MIUI_Only/GSI.zip ./*
 cd ~/
